@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Receipe</title>
+  </head>
+  <body>
+    <h1>Coffee Receipe</h1>
+    <p> A receipe on how to make a Mocha</p>
+    <h2>Ingredients</h2>
+    <ul>
+    <li>100ml Espresso</li>
+    <li>250ml Milk</li>
+    <li>4 pumps of Mocha Syrup</li>
+    <li>Whipped Cream (optional)</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+    <li>Grind the coffee beans</li>
+    <li> Add the grinded beans to the coffee machine</li>
+      <li>Begin steaming the milk</li>
+      <li>Add the 4 Pumps of mocha syrup to the cup</li>
+      <li>Add the esspresso and milk to the cup, add whipped cream if requested</li>
+      </ol>
+      <img src="https://th.bing.com/th/id/OIP.NIGztMbdYyH2mmXHUiw6QgHaE8?rs=1&pid=ImgDetMain" alt="this is a mocha" />
+  </body>
+</html>
