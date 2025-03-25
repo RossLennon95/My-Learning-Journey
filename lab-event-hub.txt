@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article>
+            <h3>Oasis</h3>
+            <p>
+                Oasis are performing at the Scottish Gas Murrifield Stadium on Tue Aug 12, 5pm.
+            </p>
+        </article>
+        <article>
+            <h3>Sam Fender</h3>
+            <p>
+                Sam Fender is performing at the Royal Highland Showgrounds on Fri Aug 22, 7pm.
+            </p>
+        </article>
+    </section>
+    <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <h3>You Me @ Six</h3>
+            <p>
+                You Me @ Six performed at the O2 Academy on Fri Feb 21 7pm.
+            </p>
+            <img src="https://th.bing.com/th/id/OIP.IBRkCn80GPWcvyyS0IVqgwHaI5?rs=1&pid=ImgDetMain" alt="You-Me-@-Six Tour Poster">
+        </article>
+        <article>
+            <h3>Scotland vs Greece</h3>
+            <p>
+                Scotland played their 2nd leg of their Uefa Nations League A Qualification against Greece at Hampden Park on Sun 23 Mar 5pm
+            </p>
+            <img src="https://th.bing.com/th/id/OIF.muBWNQsMsZ1dj70EeIn4JQ?rs=1&pid=ImgDetMain" alt="Scott-Mctomminay">
+        </article>
+    </section>
+</main>
+</body>
+
+</html>
